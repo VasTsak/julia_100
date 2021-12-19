@@ -1,8 +1,6 @@
 # 100 Days of Julia
-This repository will have code implemented for the 100 days of golang.
+This repository will have code implemented for the 100 days of Julia.
 
-
-1. General Purpose
 **Day 1** - Basics
 
 **Day 2** - Basic Types
@@ -11,10 +9,37 @@ This repository will have code implemented for the 100 days of golang.
 
 **Day 4** - While loop
 
-**Day 5** - If statement
+**Day 5** - Conditional statements
 
-**Day 6** - Switch statement
+**Day 6**  - Functions
 
+**Day 7** - Lambdas
+
+**Day 8** - Arrays, SLices
+
+**Day 9** - Structs, Maps
+
+**Day 10** - DataFrames
+
+**Day 11** - Data Cleansing: Handling Missing Values
+
+**Day 12** - Data Cleansing: Scaling and Normalization
+
+**Day 13** - Parsing Dates
+
+**Day 14** - Character Encoding
+
+**Day 15** - Exercises 
+
+**Day 16** - Data Wrangling: Reshaping
+
+**Day 17** - Data Wrangling: Subset Observations & Variables
+
+**Day 18** - Data Wrangling: Summarize Data
+
+**Day 19** - Data Wrangling: New Variables (window functions)
+
+**Day 20** - 
 2. Data Preprocessing
 
 2.1 Data cleansing
