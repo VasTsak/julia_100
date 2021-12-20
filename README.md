@@ -33,6 +33,7 @@ This repository will have code implemented for the 100 days of Julia.
 
 **Day 16** - Data Wrangling: Reshaping
 
+
 **Day 17** - Data Wrangling: Subset Observations & Variables
 
 **Day 18** - Data Wrangling: Summarize Data
@@ -54,3 +55,6 @@ This repository will have code implemented for the 100 days of Julia.
 3.4 Bayesian statistics
 
 5. Probabilistic Programming
+
+https://juliadatascience.io/juliadatascience.pdf
+
