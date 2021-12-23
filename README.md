@@ -11,11 +11,11 @@ This repository will have code implemented for the 100 days of Julia.
 
 **Day 5** - Iterative processes: Loops
 
-**Day 6** - Iterative processes: 
+**Day 6** - Conditional statements
 
-**Day 7** - Conditional statements
+**Day 7** - Iterative processes: Recursive functions
 
-**Day 8** - Advanced Data structures: Structs
+**Day 8** - Math: Linear algebra
 
 **Day 9** - Advanced Data structures: DataFrames
 
