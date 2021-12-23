@@ -17,7 +17,7 @@ This repository will have code implemented for the 100 days of Julia.
 
 **Day 8** - Math: Linear algebra
 
-**Day 9** - Advanced Data structures: DataFrames
+**Day 9** - DataFrames
 
 **Day 10** - Data Cleansing: Handling Missing Values
 
