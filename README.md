@@ -19,33 +19,33 @@ This repository will have code implemented for the 100 days of Julia.
 
 **Day 9** - DataFrames
 
-**Day 10** - Data Cleansing: Handling Missing Values
+**Day 10** - Visualization: Basic viz
 
-**Day 11** - Data Cleansing: Scaling and Normalization
+**Day 11** - Visualization: Advanced viz
 
-**Day 12** - Data Cleansing: Parsing Dates
+**Day 12** - Data Cleansing: Handling Missing Values
 
-**Day 13** - Data Cleansing: Character Encoding
+**Day 13** - Data Cleansing: Scaling and Normalization
 
-**Day 14** - Data Cleansing: Exercises - Easy
+**Day 14** - Data Cleansing: Parsing Dates
 
-**Day 15** - Data Cleansing: Exercises - Hard
+**Day 15** - Data Cleansing: Character Encoding
 
-**Day 16** - Data Wrangling: Reshaping
+**Day 16** - Data Cleansing: Exercises - Easy
 
-**Day 17** - Data Wrangling: Subset Observations & Variables
+**Day 17** - Data Cleansing: Exercises - Hard
 
-**Day 18** - Data Wrangling: Summarize Data
+**Day 18** - Data Wrangling: Reshaping
 
-**Day 19** - Data Wrangling: New Variables (window functions)
+**Day 19** - Data Wrangling: Subset Observations & Variables
 
-**Day 20** - Data Wrangling: Combine Data sets
+**Day 20** - Data Wrangling: Summarize Data
 
-**Day 21** - Data Wrangling: Exercises
+**Day 21** - Data Wrangling: New Variables (window functions)
 
-**Day 22** - Visualization: Basic viz
+**Day 22** - Data Wrangling: Combine Data sets
 
-**Day 23** - Visualization: Advanced viz
+**Day 23** - Data Wrangling: Exercises
 
 **Day 24** - Feature Engineering: Mutual Information
 
