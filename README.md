@@ -145,3 +145,4 @@ This repository will have code implemented for the 100 days of Julia.
 3. https://juliadatascience.io/juliadatascience.pdf
 4. https://github.com/JuliaAcademy/Introduction-to-Julia
 5. https://www.kaggle.com/learn/data-visualization
+6. https://www.kaggle.com/residentmario/univariate-plotting-with-pandas
