@@ -19,17 +19,32 @@ This repository will have code implemented for the 100 days of Julia.
 
 **Day 9** - DataFrames
 
-**Day 10** - Visualization: Basic viz
+**Day 10** - Data Cleansing: Handling Missing Values
 
-**Day 11** - Visualization: Advanced viz
+**Day 11** - Data Cleansing: Columns
 
-**Day 12** - Data Cleansing: Handling Missing Values
+**Day 12** - Data Cleansing: Rows
+
+**Day 13** - Data Cleansing: Factors
+
+**Day 14** - Joins 
+
+**Day 15** - Reshaping
+
+**Day 15** - Transforms - Scaling & Normalization
+
+**Day 16** - Data Cleansing: Parsing Dates
+
+**Day 17** - Data Cleansing: Character Encoding
+
+**Day 18** - Visualization: Basic viz
+
+**Day 19** - Visualization: Advanced viz
+
+**Day 18** - Data Cleansing: Handling Missing Values
 
 **Day 13** - Data Cleansing: Scaling and Normalization
 
-**Day 14** - Data Cleansing: Parsing Dates
-
-**Day 15** - Data Cleansing: Character Encoding
 
 **Day 16** - Data Cleansing: Exercises - Easy
 
@@ -145,5 +160,8 @@ This repository will have code implemented for the 100 days of Julia.
 3. https://juliadatascience.io/juliadatascience.pdf
 4. https://github.com/JuliaAcademy/Introduction-to-Julia
 5. https://www.kaggle.com/learn/data-visualization
-6. https://www.kaggle.com/residentmario/
-7. https://www.kaggle.com/ryanholbrook/
+6. https://www.kaggle.com/residentmario/univariate-plotting-with-pandas
+7. https://juliastats.org/StatsBase.jl
+8. https://github.com/bkamins/Julia-DataFrames-Tutorial
+9. https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
+10. https://www.displayr.com/what-is-hierarchical-clustering/
